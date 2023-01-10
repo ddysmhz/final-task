@@ -12,4 +12,4 @@
 ## This is expected result after you deploy and hit the endpoint.
  * open https://final-task.obrol.id/employees
 
-![Result](img/result.jpg)
+![Result](img/result.png)
